@@ -188,7 +188,7 @@
 **Полезное**
 [U]
 
-1. [Большой гайд по Optional в Java](https://disk.yandex.ru/i/M0uuIGQZxxrLoQ)
+1. [Большой гайд по Optional в Java](https://disk.yandex.ru/i/h94aNtLiVh_rlg)
 2. [Анонимные классы](https://disk.yandex.ru/i/sutoH4cFwFYWvQ), (Алишев - https://youtu.be/ndnubpPzkNE)
 3. [Lambda Expression](https://disk.yandex.ru/i/2qrXN2n-erzcVQ)
    , [Шпаргалка Java программиста 4. Java Stream API](https://disk.yandex.ru/i/8scsBesg7RK7zQ)
