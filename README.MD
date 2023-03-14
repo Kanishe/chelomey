@@ -209,3 +209,4 @@
 11. [StringBuilder,String Pool](https://disk.yandex.ru/i/wUm2kiJ11ZNkjA), ( https://disk.yandex.ru/i/Pv2_YeOON5LzbA )
 12. [RegExp](https://disk.yandex.ru/i/wUm2kiJ11ZNkjA) [link to regexr.com](https://regexr.com/), [Notes about RegExp](https://disk.yandex.ru/d/YnBhprHpdrKp3Q)
 13. [ObjectMapper](https://disk.yandex.ru/i/HTivLmttQ_8ElQ), [2](https://disk.yandex.ru/i/hAlzRhZN-P-J7A), [Jackson](https://disk.yandex.ru/i/9mRzwRCqexEBVA)
+14. [Super, This](https://disk.yandex.ru/d/7SlOHBPFU2V1ZQ), [2](https://disk.yandex.ru/i/4TEfCL1uu8SC8w)

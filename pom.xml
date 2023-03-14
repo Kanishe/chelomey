@@ -13,6 +13,7 @@
     <module>springpool</module>
     <module>U1Optional</module>
     <module>u13ObjectMapper</module>
+    <module>U14SuperThis</module>
   </modules>
 
   <properties>
